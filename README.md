@@ -22,7 +22,7 @@ Learning Rate Comparison
 
 Convergence Visualization
 
-## Requirements
+## 🏁 Requirements
 
 To run this project, you will need:
 
@@ -34,7 +34,7 @@ To run this project, you will need:
 
 - Jupyter Notebook or Google Colab
 
-## Install required packages:
+## 🔧 Install required packages:
 
 pip install Numpy, Matplotlib, and Jupyter Notebook
 
@@ -50,7 +50,7 @@ Or simply upload the provided .ipynb file to Google Colab.
 
 If you plan to store images or export figures, place them inside the figures/ directory.
 
-## Tasks Completed
+## ☑️ Tasks Completed
 
 ### **✔ Task 1**: Analytical Method of Linear Regression
 
@@ -82,7 +82,7 @@ Compared regression line adjustments and cost curves
 
 Observed underfitting, stable learning, and divergence patterns
 
-## 📷 Visual Outputs
+## 👓 Visual Outputs
 
 The notebook generates several plots, including:
 
@@ -100,4 +100,4 @@ The notebook generates several plots, including:
 
 All visuals are produced directly when running the notebook cells.
 
-## Screenshots
+## 📷 Screenshots
