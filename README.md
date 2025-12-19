@@ -100,4 +100,4 @@ The notebook generates several plots, including:
 
 All visuals are produced directly when running the notebook cells.
 
-## 📷 Screenshots
+
